@@ -2,4 +2,4 @@
 
 Made a very popular game called 2048 with Python Tkinter.
 
-![Finished App](![Finished App](https://github.com/CoderChirag/images/blob/master/2048.gif)
+![Finished App]([Finished App](https://github.com/CoderChirag/images/blob/master/2048.gif)
